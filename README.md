@@ -1,4 +1,4 @@
-# Detecção de Encontros
+# Detecção de Encontros - Pedro Bortolanza
 
 Solução em TypeScript (Node.js) para detectar encontros físicos entre monitorados com tornozeleira eletrônica e vítimas com medida protetiva, a partir dos arquivos de geolocalização.
 
